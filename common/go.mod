@@ -1,1 +1,1 @@
-module github.com/mfreeman451/helpers/common
+module github.com/mfreeman451/golang/common
